@@ -1,0 +1,2 @@
+Cache clear trigger - delete this file after restarting dev server
+Generated at: 2026-02-22
